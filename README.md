@@ -42,3 +42,21 @@
    ```
 
 ## ✨ Features
+
+Users can try the following features implemented
+
+- [x] User can add the product to cart
+- [x] User can click on the cart icon that opens the cart page
+- [x] In the cart page user can see the cart summary and added items with quantity
+- [x] User can decrease and increase the item quantity in the cart page
+- [x] User can delete the item in the cart page
+
+## Pages
+
+- home page
+
+![home-page](./public/readme-images/home-page.PNG)
+
+- cart page
+
+![cart-page](./public/readme-images/cart-page.PNG)
