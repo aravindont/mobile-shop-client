@@ -13,7 +13,7 @@ export const Product = ({ id, title, image, price }) => {
         </p>
         <button
           className="p-2 text-white bg-green-600 w-24 border-none rounded-xl text-xl"
-          onClick={() => dispatch(addToCart({ id, title, image, price }))}
+          onClick={() => dispath(addToCart({ id, title, image, price }))}
         >
           Add
         </button>
